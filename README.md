@@ -32,8 +32,8 @@ Sevachat is an AI receptionist platform for salons that handles:
   </a>&nbsp;&nbsp;
 
   <a href="https://openai.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/openai" alt="OpenAI" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" alt="OpenAI" width="40" height="40"/>
+  </a>
 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
