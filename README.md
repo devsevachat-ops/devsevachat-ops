@@ -3,7 +3,7 @@
 ### About Sevachat
 Sevachat is an AI receptionist platform for salons that handles:
 
-| <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="40" height="40" /><br><sub>**WhatsApp Conversations**</sub> | <img src="https://cdn-icons-png.flaticon.com/512/3652/3652191.png" width="40" height="40" /><br><sub>**Appointment Booking**</sub> | <img src="https://cdn-icons-png.flaticon.com/512/1067/1067566.png" width="40" height="40" /><br><sub>**Customer Support**</sub> | <img src="https://cdn-icons-png.flaticon.com/512/4214/4214104.png" width="40" height="40" /><br><sub>**Lead Qualification**</sub> | <img src="https://cdn-icons-png.flaticon.com/512/869/869869.png" width="40" height="40" /><br><sub>**Multilingual Communication**</sub> | <img src="https://cdn-icons-png.flaticon.com/512/3104/3104859.png" width="40" height="40" /><br><sub>**24/7 Availability**</sub> |
+| <img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="40"/><br><sub><b>WhatsApp Conversations</b></sub> | <img src="https://img.icons8.com/color/48/calendar--v1.png" width="40"/><br><sub><b>Appointment Booking</b></sub> | <img src="https://img.icons8.com/color/48/headset.png" width="40"/><br><sub><b>Customer Support</b></sub> | <img src="https://img.icons8.com/color/48/business-contact.png" width="40"/><br><sub><b>Lead Qualification</b></sub> | <img src="https://img.icons8.com/color/48/language.png" width="40"/><br><sub><b>Multilingual Communication</b></sub> | <img src="https://img.icons8.com/color/48/clock--v1.png" width="40"/><br><sub><b>24/7 Availability</b></sub> |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 
 ---
