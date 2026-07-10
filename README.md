@@ -24,12 +24,12 @@ Sevachat is an AI receptionist platform for salons that handles:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="whatsapp" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@13.0.0/icons/openai.svg" alt="openai" width="40" height="40" style="filter: invert(1);"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/12114/12114251.png" alt="openai" width="40" height="40"/>&nbsp;&nbsp;
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="githubactions" width="40" height="40" style="filter: invert(1);"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/15465/15465715.png" alt="githubactions" width="40" height="40"/>
   </a>
 </p>
 
